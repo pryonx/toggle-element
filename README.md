@@ -2,6 +2,10 @@
 an HTML Toggle Element
 
 ## How to use:
+You will need to import this files in your index.html:
+* toggle.js 
+* toggle.css
+(There's also a minified version for them in /dist)
 
 The constructor only needs:
  * Id (for the DOM element)
